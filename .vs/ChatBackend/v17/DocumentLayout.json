@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\flutter\\FullStack\\bck\\ChatBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{819FA0A5-825D-4BAB-BBD7-29749E70BA31}|ChatBackend.csproj|e:\\flutter\\fullstack\\bck\\chatbackend\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819FA0A5-825D-4BAB-BBD7-29749E70BA31}|ChatBackend.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819FA0A5-825D-4BAB-BBD7-29749E70BA31}|ChatBackend.csproj|e:\\flutter\\fullstack\\bck\\chatbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819FA0A5-825D-4BAB-BBD7-29749E70BA31}|ChatBackend.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819FA0A5-825D-4BAB-BBD7-29749E70BA31}|ChatBackend.csproj|e:\\flutter\\fullstack\\bck\\chatbackend\\services\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819FA0A5-825D-4BAB-BBD7-29749E70BA31}|ChatBackend.csproj|solutionrelative:services\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819FA0A5-825D-4BAB-BBD7-29749E70BA31}|ChatBackend.csproj|e:\\flutter\\fullstack\\bck\\chatbackend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819FA0A5-825D-4BAB-BBD7-29749E70BA31}|ChatBackend.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819FA0A5-825D-4BAB-BBD7-29749E70BA31}|ChatBackend.csproj|e:\\flutter\\fullstack\\bck\\chatbackend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819FA0A5-825D-4BAB-BBD7-29749E70BA31}|ChatBackend.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "E:\\flutter\\FullStack\\bck\\ChatBackend\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "E:\\flutter\\FullStack\\bck\\ChatBackend\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:46:38.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\flutter\\FullStack\\bck\\ChatBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "E:\\flutter\\FullStack\\bck\\ChatBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:44:21.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirebaseService.cs",
+              "DocumentMoniker": "E:\\flutter\\FullStack\\bck\\ChatBackend\\Services\\FirebaseService.cs",
+              "RelativeDocumentMoniker": "Services\\FirebaseService.cs",
+              "ToolTip": "E:\\flutter\\FullStack\\bck\\ChatBackend\\Services\\FirebaseService.cs",
+              "RelativeToolTip": "Services\\FirebaseService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:41:33.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\flutter\\FullStack\\bck\\ChatBackend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "E:\\flutter\\FullStack\\bck\\ChatBackend\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAywBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:34:43.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\flutter\\FullStack\\bck\\ChatBackend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "E:\\flutter\\FullStack\\bck\\ChatBackend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:25:31.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
